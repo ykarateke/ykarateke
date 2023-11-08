@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Tali Acente Fiyat Talep Programı]  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning SwiftUI  
   
 
 - ❓ I never hesitate to learn new things, you can teach what I don't know  
