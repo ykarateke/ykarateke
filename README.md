@@ -1,71 +1,115 @@
-# 💫 About Me
+<div id="top"></div>
 
-Hey! I'm **Yasin Karateke** — a passionate software developer crafting seamless **mobile**, **web**, and **backend** solutions.  
+<h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
+<h3 align="center">A software developer with a strong focus on mobile, web, and backend technologies.</h3>
 
-### 🧠 What I Do
-- 🧩 **Flutter & Dart** – Cross-platform mobile development with clean architecture & responsive UIs  
-- 🌐 **Next.js (React & TypeScript)** – Blazing-fast, SEO-optimized websites & dashboards  
-- 🛠 **Supabase** – Backend-as-a-Service for real-time data, auth, and storage  
-- 📱 **Swift & Kotlin** – Native iOS & Android apps when top-tier performance is required  
-
-I build **scalable**, **modular**, and **maintainable** codebases. My mission is to deliver tools that make real-world problems disappear.
-
----
-
-### 🔧 Tech I'm Comfortable With
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+<p align="center">
+  <a href="https://github.com/ykarateke?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ykarateke?color=236ad3&labelColor=115599&style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/ykarateke/github-readme-stats">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ykarateke/github-readme-stats?color=236ad3&labelColor=115599&style=for-the-badge&logo=github&label=Stars" />
+  </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ykarateke&icon=0&color=236ad3" alt="Profile Visitors" style="vertical-align:middle;">
+  </a>
+</p>
 
 ---
 
-### 🚀 Current Focus
-- Building indie apps in health, pet care & productivity domains  
-- Working with tools like **Riverpod**, **OneSignal**, and **Firebase Messaging**  
-- Deploying apps to the **App Store**, **Play Store**, and beyond  
+## 🚀 About Me
+
+I'm a software engineer deeply focused on developing **tools and applications that genuinely solve real-world problems** across the mobile, web, and backend landscapes. I consistently prioritize **scalable codebases, modular architecture, and a fantastic developer experience.**
+
+### 🛠️ My Core Focus:
+
+-   **Flutter & Dart**: Building **cross-platform mobile apps** with clean architecture and modern UI practices.
+-   **Next.js (React & TypeScript)**: Crafting performant, SEO-friendly **web applications**.
+-   **Supabase**: Utilizing it as a **backend-as-a-service** solution, including authentication, real-time DB, and storage.
+-   **Swift & Kotlin**: Delivering **native mobile experiences** when platform-specific performance or integration is required.
+
+### ✨ Areas of Expertise:
+
+-   App state management (e.g., Riverpod, Provider)
+-   Push notifications (OneSignal, Firebase Cloud Messaging)
+-   Deployment pipelines (App Store / Play Store)
+-   Data security & RLS policies (Supabase Postgres)
+
+Currently, I'm working on **indie products and startup collaborations**, with a special focus on productivity, pet care, and health tracking apps.
 
 ---
 
-## 🌐 Connect with Me
+## 💻 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/@yasinnk_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yasinnk_)  
-[![X](https://img.shields.io/badge/@ykarateke-black?style=flat&logo=x&logoColor=white)](https://x.com/ykarateke)  
-[![Reddit](https://img.shields.io/badge/u/ykarateke-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/ykarateke)  
-[![YouTube](https://img.shields.io/badge/@ykarateke_-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ykarateke_)  
+Here are some of the key technologies and tools I work with:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykarateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ykarateke&theme=dark&hide_border=false" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykarateke&theme=dark&hide_border=false&layout=compact" />
-</div>
+A quick overview of my GitHub profile:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ykarateke&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=236ad3&icon_color=236ad3&text_color=ffffff&bg_color=0d1117" alt="Yasin's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ykarateke&theme=radical&hide_border=true&dates=DD%2FMM%2FYYYY&background=0d1117&ring=236ad3&fire=236ad3&currStreakLabel=236ad3" alt="Yasin's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykarateke&theme=radical&hide_border=true&layout=compact&title_color=236ad3&icon_color=236ad3&text_color=ffffff&bg_color=0d1117" alt="Yasin's Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&margin-w=4)
-
----
-
-## 💰 Support My Work
-
-If you enjoy my work or learned something from my code, consider buying me a coffee 👇  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/github.com/ykarateke)
-
----
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ykarateke&icon=0&color=0" alt="Profile Visits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="My GitHub Trophies" />
 </p>
 
-<!-- Built with ❤️ by Yasin Karateke | GPRM template base -->
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out to me on these platforms:
+
+<p align="center">
+  <a href="https://instagram.com/yasinnk_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://reddit.com/user/ykarateke" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="Reddit" />
+  </a>
+  <a href="https://x.com/ykarateke" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.youtube.com/@yasinkarateke" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work?
+
+If you find my work helpful or interesting, consider supporting me by buying me a coffee:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/github.com/ykarateke" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<p align="right">(<a href="#top">Back to Top</a>)</p>
