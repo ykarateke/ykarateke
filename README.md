@@ -1,25 +1,71 @@
-# 💫 About Me:
-I'm Yasin Karateke, a software developer with a strong focus on mobile, web, and backend technologies.<br>My main stack includes:<br><br>Flutter & Dart for building cross-platform mobile apps with clean architecture and modern UI practices<br><br>Next.js (React & TypeScript) for performant, SEO-friendly web applications<br><br>Supabase as a backend-as-a-service solution, including authentication, real-time DB, and storage<br><br>Swift & Kotlin for native mobile experiences when platform-specific performance or integration is needed<br><br>I prioritize scalable codebases, modular architecture, and developer experience, aiming to build tools and apps that actually solve real-world problems.<br>I'm also experienced in:<br><br>App state management (e.g. Riverpod, Provider)<br><br>Push notifications (OneSignal, Firebase Cloud Messaging)<br><br>Deployment pipelines (App Store / Play Store)<br><br>Data security & RLS policies (Supabase Postgres)<br><br>Currently working on indie products and startup collaborations, focusing on productivity, pet care, and health tracking apps.<br>
+# 💫 About Me
 
+Hey! I'm **Yasin Karateke** — a passionate software developer crafting seamless **mobile**, **web**, and **backend** solutions.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasinnk_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ykarateke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ykarateke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ykarateke_) 
+### 🧠 What I Do
+- 🧩 **Flutter & Dart** – Cross-platform mobile development with clean architecture & responsive UIs  
+- 🌐 **Next.js (React & TypeScript)** – Blazing-fast, SEO-optimized websites & dashboards  
+- 🛠 **Supabase** – Backend-as-a-Service for real-time data, auth, and storage  
+- 📱 **Swift & Kotlin** – Native iOS & Android apps when top-tier performance is required  
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ykarateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ykarateke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ykarateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+I build **scalable**, **modular**, and **maintainable** codebases. My mission is to deliver tools that make real-world problems disappear.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ykarateke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/github.com/ykarateke) 
+### 🔧 Tech I'm Comfortable With
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+
+---
+
+### 🚀 Current Focus
+- Building indie apps in health, pet care & productivity domains  
+- Working with tools like **Riverpod**, **OneSignal**, and **Firebase Messaging**  
+- Deploying apps to the **App Store**, **Play Store**, and beyond  
+
+---
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/@yasinnk_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yasinnk_)  
+[![X](https://img.shields.io/badge/@ykarateke-black?style=flat&logo=x&logoColor=white)](https://x.com/ykarateke)  
+[![Reddit](https://img.shields.io/badge/u/ykarateke-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/ykarateke)  
+[![YouTube](https://img.shields.io/badge/@ykarateke_-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ykarateke_)  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ykarateke&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ykarateke&theme=dark&hide_border=false" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykarateke&theme=dark&hide_border=false&layout=compact" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&margin-w=4)
+
+---
+
+## 💰 Support My Work
+
+If you enjoy my work or learned something from my code, consider buying me a coffee 👇  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/github.com/ykarateke)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ykarateke&icon=0&color=0" alt="Profile Visits" />
+</p>
+
+<!-- Built with ❤️ by Yasin Karateke | GPRM template base -->
