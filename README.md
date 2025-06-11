@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer deeply focused on developing **tools and applications that genuinely solve real-world problems** across the mobile, web, and backend landscapes. I consistently prioritize **scalable codebases, modular architecture, and a fantastic developer experience.**
+I'm a software enthusiast deeply focused on building tools and applications that **actually solve real-world problems** across mobile, web, and backend environments. I consistently prioritize **scalable codebases, modular architecture, and a great developer experience**.
 
 ### 🛠️ My Core Focus:
 
