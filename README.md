@@ -3,18 +3,6 @@
 <h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
 <h3 align="center">A software developer with a strong focus on mobile, web, and backend technologies.</h3>
 
-<p align="center">
-  <a href="https://github.com/ykarateke?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ykarateke?color=236ad3&labelColor=115599&style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/ykarateke/github-readme-stats">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ykarateke/github-readme-stats?color=236ad3&labelColor=115599&style=for-the-badge&logo=github&label=Stars" />
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ykarateke&icon=0&color=236ad3" alt="Profile Visitors" style="vertical-align:middle;">
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
