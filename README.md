@@ -67,6 +67,24 @@ A quick overview of my GitHub profile:
   <img src="https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="My GitHub Trophies" />
 </p>
 
+## 📱 My Published Apps
+
+Check out my apps available on the App Store:
+
+### iOS Apps
+<p align="left">
+  <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021?uo=4" target="_blank">
+    <img src="https://img.shields.io/badge/Cleu_Contacts-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Cleu Contacts - iOS App" />
+  </a>
+</p>
+
+### macOS Apps
+<p align="left">
+  <a href="https://apps.apple.com/us/app/moodbar/id6746422352" target="_blank">
+    <img src="https://img.shields.io/badge/MoodBar-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MoodBar - macOS App" />
+  </a>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
