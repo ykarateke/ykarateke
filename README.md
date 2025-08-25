@@ -43,29 +43,6 @@ Here are some of the key technologies and tools I work with:
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-A quick overview of my GitHub profile:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykarateke&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=236ad3&icon_color=236ad3&text_color=ffffff&bg_color=0d1117" alt="Yasin's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ykarateke&theme=radical&hide_border=true&dates=DD%2FMM%2FYYYY&background=0d1117&ring=236ad3&fire=236ad3&currStreakLabel=236ad3" alt="Yasin's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykarateke&theme=radical&hide_border=true&layout=compact&title_color=236ad3&icon_color=236ad3&text_color=ffffff&bg_color=0d1117" alt="Yasin's Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ykarateke&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="My GitHub Trophies" />
-</p>
 
 ## 📱 My Published Apps
 
