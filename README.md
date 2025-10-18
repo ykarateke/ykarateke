@@ -53,6 +53,9 @@ Check out my apps available on the App Store:
   <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021?uo=4" target="_blank">
     <img src="https://img.shields.io/badge/Cleu_Contacts-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Cleu Contacts - iOS App" />
   </a>
+  <a href="https://apps.apple.com/us/app/shieldsms-spam-blocker/id6752028430" target="_blank">
+    <img src="https://img.shields.io/badge/ShieldSMS_Spam_Blocker-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="ShieldSMS Spam Blocker - iOS App" />
+  </a>
 </p>
 
 ### macOS Apps
