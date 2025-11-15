@@ -14,96 +14,41 @@ I consistently prioritize **scalable codebases, modular architecture, and a grea
 
 - **Flutter & Dart** → Cross-platform mobile apps with modern architecture  
 - **Next.js (React & TypeScript)** → High-performance, SEO-optimized web apps  
-- **Supabase** → Backend-as-a-service: Auth, RLS, DB, Storage, Realtime  
+- **Supabase** → Backend-as-a-service (Auth, RLS, Realtime, DB, Storage)  
 - **Swift & Kotlin** → Native mobile experiences when needed
 
 ### ✨ Areas of Expertise:
 
 - State management (Riverpod, Provider)  
 - Push notifications (OneSignal, Firebase Cloud Messaging)  
-- App Store / Play Store release pipelines  
-- Data security & Row Level Security (RLS) on Supabase  
+- App Store / Play Store deployment pipelines  
+- Data security & row-level security (RLS) on Supabase  
 
-Currently, I'm working on **indie products, startup collaborations**, and tools in productivity, pet care, and health tracking.
-
----
-
-## 🧩 Open-Source Projects
-
-Below are some of the open-source tools I've built.  
-They cover **Arma 3 modding utilities**, **Supabase automation**, and **developer productivity tools**.
-
----
-
-### 🎮 Arma 3 Modding Tools
-
-Tools designed to simplify terrain building, mask generation, material creation, and satellite image processing for Arma 3 modders.
-
-- **Arma 3 Satellite Image Combiner**  
-  A utility for merging separate satellite imagery tiles into a single high-resolution image.  
-  🔗 https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner
-
-- **Arma 3 Mask Generator**  
-  Automatically generates mask layers for Arma 3 terrain development.  
-  🔗 https://github.com/ykarateke/arma_3_mask_generator
-
-- **Layers.cfg Generator**  
-  Generates optimized `layers.cfg` files for Arma 3 terrains.  
-  🔗 https://github.com/ykarateke/Layers.cfg-Generator
-
-- **RVMAT Maker**  
-  Batch-create `.rvmat` material files for Arma 3 terrains and assets.  
-  🔗 https://github.com/ykarateke/rvmat_maker
-
----
-
-### 🛠️ General Open-Source Tools
-
-Developer tools, automation scripts, and backend/infra utilities.
-
-- **Supabase Cloud Backup**  
-  Automated Supabase backup workflow using cloud storage.  
-  🔗 https://github.com/ykarateke/supabase-cloud-backup
-
-- **App Store Connect Localization Extension**  
-  Chrome extension for exporting and managing App Store metadata localizations.  
-  🔗 https://github.com/ykarateke/App-Store-Connect-Localization-Extension
-
-- **Supabase Backup Script**  
-  CLI script for exporting Supabase DB tables, buckets, and authentication data.  
-  🔗 https://github.com/ykarateke/supabase-backup-script
-
-- **Supabase Self-Hosted with Mobile Deep Linking**  
-  A complete Supabase self-host stack with mobile deep-linking configuration.  
-  🔗 https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking
-
-- **FlipHTML5 Downloader**  
-  Extract and save FlipHTML5 pages for offline usage.  
-  🔗 https://github.com/ykarateke/FlipHTML5-Downloader
+I'm actively working on **indie products, startup collaborations**, and tools in productivity, pet care, mapping, and infrastructure.
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
 
 ## 📱 My Published Apps
 
-### iOS Apps
+### **iOS Apps**
 <p align="left">
-  <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021?uo=4" target="_blank">
+  <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021" target="_blank">
     <img src="https://img.shields.io/badge/Cleu_Contacts-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <a href="https://apps.apple.com/us/app/shieldsms-spam-blocker/id6752028430" target="_blank">
@@ -111,12 +56,51 @@ Developer tools, automation scripts, and backend/infra utilities.
   </a>
 </p>
 
-### macOS Apps
+### **macOS Apps**
 <p align="left">
   <a href="https://apps.apple.com/us/app/moodbar/id6746422352" target="_blank">
     <img src="https://img.shields.io/badge/MoodBar-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🧩 Open-Source Projects
+
+A collection of tools I've developed for **Arma 3 modding**, **backend automation**, and **developer productivity**.
+
+---
+
+### 🎮 Arma 3 Modding Tools
+- **Satellite Image Combiner** — Merge satellite tiles into one image  
+  🔗 https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner
+
+- **Mask Generator** — Auto-generate terrain mask layers  
+  🔗 https://github.com/ykarateke/arma_3_mask_generator
+
+- **Layers.cfg Generator** — Generate optimized layers.cfg files  
+  🔗 https://github.com/ykarateke/Layers.cfg-Generator
+
+- **RVMAT Maker** — Batch-create .rvmat material files  
+  🔗 https://github.com/ykarateke/rvmat_maker
+
+---
+
+### 🛠️ Developer & Productivity Tools
+- **Supabase Cloud Backup** — Automated Supabase backup workflow  
+  🔗 https://github.com/ykarateke/supabase-cloud-backup
+
+- **App Store Connect Localization Extension** — Manage/export metadata  
+  🔗 https://github.com/ykarateke/App-Store-Connect-Localization-Extension
+
+- **Supabase Backup Script** — Export DB, Auth, and Storage  
+  🔗 https://github.com/ykarateke/supabase-backup-script
+
+- **Supabase Self-Hosted + Deep Linking** — Full self-hosting template  
+  🔗 https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking
+
+- **FlipHTML5 Downloader** — Save FlipHTML5 pages offline  
+  🔗 https://github.com/ykarateke/FlipHTML5-Downloader
 
 ---
 
