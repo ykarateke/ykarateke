@@ -54,6 +54,9 @@ I'm actively working on **indie products, startup collaborations**, and tools in
   <a href="https://apps.apple.com/us/app/shieldsms-spam-blocker/id6752028430" target="_blank">
     <img src="https://img.shields.io/badge/ShieldSMS_Spam_Blocker-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+  <a href="https://apps.apple.com/us/app/nicu-mate-neonatal-calc/id6756231872" target="_blank">
+    <img src="https://img.shields.io/badge/NICU_Mate_Neonatal_Calc-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
 </p>
 
 ### **macOS Apps**
