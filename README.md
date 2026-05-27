@@ -135,7 +135,7 @@ My architectural focus centers on **predictable state management, modular codeba
   <a href="https://reddit.com/user/ykarateke" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://x.com/ykarateke" target="_blank">
+  <a href="https://x.com/ykarateke_" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/@yasinkarateke" target="_blank">
