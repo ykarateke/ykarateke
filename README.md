@@ -1,46 +1,40 @@
 <div id="top"></div>
 
 <h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
-<h3 align="center">A software developer with a strong focus on mobile, web, and backend technologies.</h3>
+<h3 align="center">Mobile Application Developer specialized in high-performance architectures and AI integration.</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a software enthusiast deeply focused on building tools and applications that **solve real-world problems** across mobile, web, and backend environments.  
-I consistently prioritize **scalable codebases, modular architecture, and a great developer experience**.
+I'm a seasoned software engineer dedicated to building production-grade, highly scalable mobile experiences. With a deep expertise in **native iOS (Swift/SwiftUI)** and **advanced cross-platform (Flutter/Dart)** ecosystems, I specialize in transforming complex business logic into fluid, user-centric products.
 
-### 🛠️ My Core Focus:
+My architectural focus centers on **predictable state management, modular codebases, robust data security (Supabase RLS), and fluid UI/UX execution**. Lately, I’ve been heavily focusing on bridging mobile interfaces with **Large Language Models (LLMs)** to craft local and cloud-based AI-assisted features.
 
-- **Flutter & Dart** → Cross-platform mobile apps with modern architecture  
-- **Next.js (React & TypeScript)** → High-performance, SEO-optimized web apps  
-- **Supabase** → Backend-as-a-service (Auth, RLS, Realtime, DB, Storage)  
-- **Swift & Kotlin** → Native mobile experiences when needed
+### 🛠️ Core Capabilities:
 
-### ✨ Areas of Expertise:
-
-- State management (Riverpod, Provider)  
-- Push notifications (OneSignal, Firebase Cloud Messaging)  
-- App Store / Play Store deployment pipelines  
-- Data security & row-level security (RLS) on Supabase  
-
-I'm actively working on **indie products, startup collaborations**, and tools in productivity, pet care, mapping, and infrastructure.
+- **Advanced iOS Engineering** → SwiftUI, Swift Concurrency, Custom Animations, and Native Frameworks.
+- **AI & LLM Integration** → Designing intelligent mobile features powered by cloud/local LLM execution, vector search, and seamless streaming UI workflows.
+- **Cross-Platform Mastery** → Architectural scaling with Flutter & Dart, balancing high performance with strict platform-native behaviors.
+- **Robust Backend-as-a-Service** → Complex data modeling, strict Row-Level Security (RLS) policies, realtime subscriptions, and automated cloud infrastructure via Supabase.
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+
+### 🔧 Ecosystem & Tooling:
+* **Architecture / State Management:** MVVM, Clean Architecture, Riverpod, Provider, Combine.
+* **Local Data & Infrastructure:** SQLite, CoreData, Secure Storage, Self-hosted backend pipelines (Coolify).
+* **CI/CD & Integration:** App Store Connect automation, Fastlane, Push Notifications (OneSignal, FCM), AdMob monetization templates.
 
 ---
 
@@ -48,6 +42,9 @@ I'm actively working on **indie products, startup collaborations**, and tools in
 
 ### **iOS Apps**
 <p align="left">
+  <a href="https://apps.apple.com/us/app/optix-m3u-iptv-streamer/id6756812234" target="_blank">
+    <img src="https://img.shields.io/badge/Optix_Player_IPTV-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
   <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021" target="_blank">
     <img src="https://img.shields.io/badge/Cleu_Contacts-iOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
@@ -71,42 +68,61 @@ I'm actively working on **indie products, startup collaborations**, and tools in
 
 ---
 
-## 🧩 Open-Source Projects
+## 🛠️ Tools & Repositories
 
-A collection of tools I've developed for **Arma 3 modding**, **backend automation**, and **developer productivity**.
+### **Mobile Libraries & AI Ecosystem**
+<p align="left">
+  <a href="https://github.com/ykarateke/SwiftM3UKit" target="_blank">
+    <img src="https://img.shields.io/badge/SwiftM3UKit-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/seo-agent" target="_blank">
+    <img src="https://img.shields.io/badge/SEO_Agent_LLM-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/flutter-oneclick" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter_OneClick-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/react-native-oneclick" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native_OneClick-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+### **Developer Productivity & Automation**
+<p align="left">
+  <a href="https://github.com/ykarateke/commithub" target="_blank">
+    <img src="https://img.shields.io/badge/CommitHub-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/supabase-cloud-backup" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase_Cloud_Backup-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/App-Store-Connect-Localization-Extension" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store_Localization-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/supabase-backup-script" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase_Backup_Script-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase_Self_Hosted_Deep_Linking-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/FlipHTML5-Downloader" target="_blank">
+    <img src="https://img.shields.io/badge/FlipHTML5_Downloader-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 🎮 Arma 3 Modding Tools
-- **Satellite Image Combiner** — Merge satellite tiles into one image  
-  🔗 https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner
-
-- **Mask Generator** — Auto-generate terrain mask layers  
-  🔗 https://github.com/ykarateke/arma_3_mask_generator
-
-- **Layers.cfg Generator** — Generate optimized layers.cfg files  
-  🔗 https://github.com/ykarateke/Layers.cfg-Generator
-
-- **RVMAT Maker** — Batch-create .rvmat material files  
-  🔗 https://github.com/ykarateke/rvmat_maker
-
----
-
-### 🛠️ Developer & Productivity Tools
-- **Supabase Cloud Backup** — Automated Supabase backup workflow  
-  🔗 https://github.com/ykarateke/supabase-cloud-backup
-
-- **App Store Connect Localization Extension** — Manage/export metadata  
-  🔗 https://github.com/ykarateke/App-Store-Connect-Localization-Extension
-
-- **Supabase Backup Script** — Export DB, Auth, and Storage  
-  🔗 https://github.com/ykarateke/supabase-backup-script
-
-- **Supabase Self-Hosted + Deep Linking** — Full self-hosting template  
-  🔗 https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking
-
-- **FlipHTML5 Downloader** — Save FlipHTML5 pages offline  
-  🔗 https://github.com/ykarateke/FlipHTML5-Downloader
+### **Arma 3 Modding Tools**
+<p align="left">
+  <a href="https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner" target="_blank">
+    <img src="https://img.shields.io/badge/Satellite_Image_Combiner-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/arma_3_mask_generator" target="_blank">
+    <img src="https://img.shields.io/badge/Mask_Generator-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/Layers.cfg-Generator" target="_blank">
+    <img src="https://img.shields.io/badge/Layers.cfg_Generator-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ykarateke/rvmat_maker" target="_blank">
+    <img src="https://img.shields.io/badge/RVMAT_Maker-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -136,5 +152,3 @@ A collection of tools I've developed for **Arma 3 modding**, **backend automatio
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
-
-<p align="right">(<a href="#top">Back to Top</a>)</p>
