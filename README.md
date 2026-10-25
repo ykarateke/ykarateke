@@ -114,6 +114,11 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
   <img src="./metrics.habits.svg" alt="Coding habits" width="49%" />
 </p>
 
+<p align="center">
+  <img src="./metrics.lines.svg" alt="Lines of code changed" width="49%" />
+  <img src="./metrics.activity.svg" alt="Recent activity" width="49%" />
+</p>
+
 ---
 
 ## <img src="https://api.iconify.design/lucide/link.svg?color=%23FF2D55" height="24" /> Let's Connect
