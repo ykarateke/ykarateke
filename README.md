@@ -1,92 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=ykarateke%40github%3A~%24&fontSize=40&fontColor=3ecf8e&fontAlignY=42&desc=mobile%20developer%20%C2%B7%20swift%20%C2%B7%20flutter%20%C2%B7%20supabase&descSize=16&descAlignY=72" width="100%" />
+<div id="top"></div>
+
+<h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
+<h3 align="center">iOS & Flutter developer building fast, polished apps with Supabase and AI</h3>
+<p align="center"><sub>Designed with care. Built with Swift. Shipped to the App Store.</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=3ECF8E&center=true&vCenter=true&width=640&lines=%24+whoami;ykarateke+%E2%80%94+Yasin+Karateke;%24+.%2Fship.sh+--target+app-store;%E2%9C%94+6+apps+shipped.+Still+going." />
+  <img src="https://img.shields.io/badge/Apps_on_the_App_Store-6-007AFF?style=for-the-badge&labelColor=1C1C1E&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_source_projects-15%2B-8E8E93?style=for-the-badge&labelColor=1C1C1E&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-LLMs_in_mobile-34C759?style=for-the-badge&labelColor=1C1C1E&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I build mobile apps end to end: native iOS with **Swift / SwiftUI**, cross-platform with **Flutter / Dart**, and the **Supabase** backends behind them. I care about clean architecture, predictable state, secure data (Row-Level Security done right) and UI that feels smooth.
+
+Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, on-device and cloud models, and vector search.
+
+| | Focus | What I do |
+|:-:|---|---|
+| 🍎 | **iOS** | SwiftUI, Swift Concurrency, custom animations, native frameworks |
+| 🦋 | **Flutter** | Scalable architecture with Riverpod, platform-native feel on both OSes |
+| 🤖 | **AI & LLMs** | Streaming chat UIs, local and cloud models, vector search |
+| 🗄️ | **Backend** | Supabase data modeling, RLS policies, realtime, self-hosting with Coolify |
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-1C1C1E?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-1C1C1E?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-1C1C1E?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-1C1C1E?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1C1C1E?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1C1C1E?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-1C1C1E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-1C1C1E?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1C1C1E?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-1C1C1E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-1C1C1E?style=for-the-badge&logo=fastlane&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coolify-1C1C1E?style=for-the-badge&logo=coolify&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ykarateke&label=visitors&color=3ecf8e&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ykarateke?label=followers&style=flat-square&color=3ecf8e&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/status-shipping-3ecf8e?style=flat-square&labelColor=0d1117" />
+  <sub><b>Architecture:</b> MVVM · Clean Architecture · Riverpod · Provider · Combine &nbsp;|&nbsp; <b>Shipping:</b> App Store Connect · OneSignal · FCM · AdMob</sub>
 </p>
 
-<pre>
-<b>ykarateke@github</b>:<b>~</b>$ neofetch
-  __   __ _  __      <b>ykarateke@github</b>
-  \ \ / /| |/ /      ----------------
-   \ V / | ' /       <b>Role</b>       Mobile developer
-    | |  | . \       <b>Platforms</b>  iOS · macOS · Android
-    |_|  |_|\_\      <b>Languages</b>  Swift · Dart · TypeScript · Python
-                     <b>Stack</b>      SwiftUI · Flutter · Supabase · Next.js
-                     <b>Patterns</b>   MVVM · Clean Arch · Riverpod · Combine
-                     <b>Shipping</b>   Fastlane · App Store Connect · OneSignal
-                     <b>Uptime</b>     6 apps live on the App Store
-                     <b>Currently</b>  wiring LLMs into mobile apps
-                     <b>Idle</b>       watches · draws · sleeps · reads · travels · writes
+---
 
-<b>ykarateke@github</b>:<b>~</b>$ cat about.txt
-  I build native iOS apps with Swift/SwiftUI and cross-platform apps
-  with Flutter, usually on top of Supabase. These days I'm bringing
-  LLMs into mobile: streaming chat UIs, on-device models, vector search.
+## 📱 My Published Apps
 
-<b>ykarateke@github</b>:<b>~</b>$ ls ~/apps --live
-  <a href="https://apps.apple.com/us/app/optix-m3u-iptv-streamer/id6756812234">optix-player/</a>           iOS     M3U / IPTV streamer
-  <a href="https://apps.apple.com/us/app/cleu-contacts/id6748238021">cleu-contacts/</a>          iOS     Duplicate contact cleaner
-  <a href="https://apps.apple.com/us/app/shieldsms-spam-blocker/id6752028430">shield-sms/</a>             iOS     SMS spam blocker
-  <a href="https://apps.apple.com/us/app/nicu-mate-neonatal-calc/id6756231872">nicu-mate/</a>              iOS     Neonatal calculators
-  <a href="https://apps.apple.com/us/app/snouty-pet-care-tracker/id6747533318">snouty/</a>                 iOS     Pet care tracker
-  <a href="https://apps.apple.com/us/app/moodbar/id6746422352">moodbar/</a>                macOS   Menu bar mood logger
+| App | Platform | What it does |
+|---|:-:|---|
+| [![Optix Player](https://img.shields.io/badge/Optix_Player-5856D6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/optix-m3u-iptv-streamer/id6756812234) | iOS | M3U / IPTV streamer for iPhone and iPad |
+| [![ShieldSMS](https://img.shields.io/badge/ShieldSMS-34C759?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/shieldsms-spam-blocker/id6752028430) | iOS | Filters spam and junk SMS messages |
+| [![Cleu Contacts](https://img.shields.io/badge/Cleu_Contacts-30B0C7?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/cleu-contacts/id6748238021) | iOS | Finds and merges duplicate contacts |
+| [![NICU Mate](https://img.shields.io/badge/NICU_Mate-FF2D55?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/nicu-mate-neonatal-calc/id6756231872) | iOS | Neonatal calculators for NICU clinicians |
+| [![Snouty](https://img.shields.io/badge/Snouty-FF9500?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/snouty-pet-care-tracker/id6747533318) | iOS | Pet care tracker for meds, meals and vet visits |
+| [![MoodBar](https://img.shields.io/badge/MoodBar-AF52DE?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/moodbar/id6746422352) | macOS | Mood logging from the menu bar |
 
-<b>ykarateke@github</b>:<b>~</b>$ ls ~/open-source
-  <a href="https://github.com/ykarateke/SwiftM3UKit">SwiftM3UKit/</a>            Swift   M3U parser, powers Optix
-  <a href="https://github.com/ykarateke/seo-agent">seo-agent/</a>              Python  LLM-powered SEO agent
-  <a href="https://github.com/ykarateke/flutter-oneclick">flutter-oneclick/</a>       Shell   Flutter setup in one command
-  <a href="https://github.com/ykarateke/react-native-oneclick">react-native-oneclick/</a>  Shell   Same, for React Native
-  <a href="https://github.com/ykarateke/commithub">commithub/</a>              TS      Commit tooling
-  <a href="https://github.com/ykarateke/App-Store-Connect-Localization-Extension">asc-localization/</a>       TS      Localize App Store listings fast
-  <a href="https://github.com/ykarateke/supabase-cloud-backup">supabase-cloud-backup/</a>  TS      Automated Supabase backups
-  <a href="https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking">supabase-deeplinks/</a>     Docs    Self-hosted auth + deep links
+---
 
-<b>ykarateke@github</b>:<b>~</b>$ cat contact.txt
-  x         → <a href="https://x.com/ykarateke_">@ykarateke_</a>
-  youtube   → <a href="https://www.youtube.com/@yasinkarateke">@yasinkarateke</a>
-  reddit    → <a href="https://reddit.com/user/ykarateke">u/ykarateke</a>
-  instagram → <a href="https://instagram.com/yasinnk_">@yasinnk_</a>
-  coffee    → <a href="https://buymeacoffee.com/ykarateke">buymeacoffee.com/ykarateke</a>
+## 🛠️ Tools & Repositories
 
-<b>ykarateke@github</b>:<b>~</b>$ █
-</pre>
+### Mobile Libraries & AI
+
+| Repository | What it does |
+|---|---|
+| [![SwiftM3UKit](https://img.shields.io/badge/SwiftM3UKit-Swift-FF9500?style=for-the-badge&logo=swift&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/SwiftM3UKit) | M3U playlist parser for Swift, the engine behind Optix |
+| [![seo-agent](https://img.shields.io/badge/SEO_Agent-Python-5856D6?style=for-the-badge&logo=python&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/seo-agent) | LLM-powered SEO agent |
+| [![flutter-oneclick](https://img.shields.io/badge/Flutter_OneClick-Shell-8E8E93?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/flutter-oneclick) | Production-ready Flutter project in one command |
+| [![react-native-oneclick](https://img.shields.io/badge/React_Native_OneClick-Shell-8E8E93?style=for-the-badge&logo=react&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/react-native-oneclick) | The same, for React Native |
+
+### Developer Productivity & Automation
+
+| Repository | What it does |
+|---|---|
+| [![App Store Localization](https://img.shields.io/badge/App_Store_Localization-TS-007AFF?style=for-the-badge&logo=appstore&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/App-Store-Connect-Localization-Extension) | Browser extension to localize App Store listings fast |
+| [![CommitHub](https://img.shields.io/badge/CommitHub-TS-007AFF?style=for-the-badge&logo=git&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/commithub) | Commit tooling for developers |
+| [![Supabase Cloud Backup](https://img.shields.io/badge/Supabase_Cloud_Backup-TS-34C759?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/supabase-cloud-backup) | Scheduled Supabase backups to cloud storage |
+| [![Supabase Backup Script](https://img.shields.io/badge/Supabase_Backup_Script-Shell-34C759?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/supabase-backup-script) | Lightweight backup script for Supabase databases |
+| [![Supabase Deep Linking](https://img.shields.io/badge/Supabase_Deep_Linking-Guide-34C759?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/Supabase-Self-Hosted-with-Mobile-Deep-Linking) | Self-hosted Supabase auth with mobile deep links |
+| [![FlipHTML5 Downloader](https://img.shields.io/badge/FlipHTML5_Downloader-Python-5856D6?style=for-the-badge&logo=python&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/FlipHTML5-Downloader) | Downloads FlipHTML5 books for offline reading |
 
 <details>
-<summary><code>$ ls ~/side-quests/arma-3</code></summary>
-
-<pre>
-  <a href="https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner">satellite-combiner/</a>     Stitch satellite tiles
-  <a href="https://github.com/ykarateke/arma_3_mask_generator">mask-generator/</a>         Terrain surface masks
-  <a href="https://github.com/ykarateke/Layers.cfg-Generator">layers-cfg-generator/</a>   layers.cfg from a mask
-  <a href="https://github.com/ykarateke/rvmat_maker">rvmat-maker/</a>            RVMAT material files
-  <a href="https://github.com/ykarateke/qgis-game-terrains-revived">qgis-terrains/</a>          QGIS plugin for game terrains
-</pre>
-</details>
-
+<summary><b>🎮 Arma 3 Modding Tools</b></summary>
 <br>
 
-<p align="center"><code>ykarateke@github:~$ git log --stat</code></p>
+| Repository | What it does |
+|---|---|
+| [![Satellite Image Combiner](https://img.shields.io/badge/Satellite_Image_Combiner-8E8E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykarateke/Arma_3_Satellite_Image_Combiner) | Stitches satellite tiles into one terrain image |
+| [![Mask Generator](https://img.shields.io/badge/Mask_Generator-8E8E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykarateke/arma_3_mask_generator) | Generates terrain surface masks |
+| [![Layers.cfg Generator](https://img.shields.io/badge/Layers.cfg_Generator-8E8E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykarateke/Layers.cfg-Generator) | Builds layers.cfg from a mask |
+| [![RVMAT Maker](https://img.shields.io/badge/RVMAT_Maker-8E8E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykarateke/rvmat_maker) | Creates RVMAT material files |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ykarateke&background=0d1117&border=30363d&ring=3ecf8e&fire=3ecf8e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3ecf8e&sideLabels=8b949e&dates=8b949e&hide_border=false" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykarateke&bg_color=0d1117&color=8b949e&line=3ecf8e&point=ffffff&area=true&area_color=3ecf8e&hide_border=true&custom_title=commits%20%2F%20day&height=300" width="49%" />
+  <img src="./metrics.isocalendar.svg" alt="Isometric contribution calendar" width="100%" />
 </p>
-
-<p align="center"><code>ykarateke@github:~$ ./snake --eat contributions</code></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykarateke/ykarateke/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ykarateke/ykarateke/output/github-snake.svg" width="100%" />
-</picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,supabase,firebase,nextjs,ts,py,docker,git&theme=dark" />
+  <img src="./metrics.languages.svg" alt="Most used languages" width="49%" />
+  <img src="./metrics.habits.svg" alt="Coding habits" width="49%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=70&section=footer&text=exit%200&fontSize=18&fontColor=8b949e&fontAlignY=50" width="100%" />
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://x.com/ykarateke_"><img src="https://img.shields.io/badge/X-1C1C1E?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@yasinkarateke"><img src="https://img.shields.io/badge/YouTube-1C1C1E?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://reddit.com/user/ykarateke"><img src="https://img.shields.io/badge/Reddit-1C1C1E?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://instagram.com/yasinnk_"><img src="https://img.shields.io/badge/Instagram-1C1C1E?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ykarateke"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFCC00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+</p>
+
+<p align="center"><sub>Crafted with SwiftUI-level attention to detail · <a href="#top">Back to top ↑</a></sub></p>
