@@ -103,21 +103,10 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 
 ---
 
-## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2330B0C7" height="24" /> GitHub Stats
-
-<p align="center">
-  <img src="./metrics.isocalendar.svg" alt="Isometric contribution calendar" width="100%" />
-</p>
-
 <p align="center">
   <img src="./metrics.languages.svg" alt="Most used languages" width="49%" />
-  <img src="./metrics.habits.svg" alt="Coding habits" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./metrics.lines.svg" alt="Lines of code changed" width="49%" />
-  <img src="./metrics.activity.svg" alt="Recent activity" width="49%" />
-</p>
 
 ---
 
