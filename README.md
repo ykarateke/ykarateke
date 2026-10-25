@@ -1,25 +1,6 @@
 <div id="top"></div>
 
-```text
-██╗   ██╗██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗███████╗██╗  ██╗███████╗
-╚██╗ ██╔╝██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║ ██╔╝██╔════╝
- ╚████╔╝ █████╔╝ ███████║██████╔╝███████║   ██║   █████╗  █████╔╝ █████╗  
-  ╚██╔╝  ██╔═██╗ ██╔══██║██╔══██╗██╔══██║   ██║   ██╔══╝  ██╔═██╗ ██╔══╝  
-   ██║   ██║  ██╗██║  ██║██║  ██║██║  ██║   ██║   ███████╗██║  ██╗███████╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
-                                                                          
-
-  yasin@dev ~ % whoami
-  → Yasin Karateke · Full-stack developer
-
-  yasin@dev ~ % cat stack.txt
-  → iOS · SwiftUI · Flutter · TS · PostgreSQL · Supabase · AWS · AI
-
-  yasin@dev ~ % ./ship --status
-  → 6 apps live on the App Store · 15+ open-source repos ✓
-
-  yasin@dev ~ % _
-```
+<h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
 <h3 align="center">Full-stack developer — native iOS & Flutter on the front, PostgreSQL · Supabase · AWS on the back, AI woven in</h3>
 <p align="center"><sub>Designed with care. Built end to end. Shipped to production.</sub></p>
 
