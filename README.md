@@ -1,8 +1,8 @@
 <div id="top"></div>
 
 <h1 align="center">Hey there! I'm Yasin Karateke 👋</h1>
-<h3 align="center">iOS & Flutter developer building fast, polished apps with Supabase and AI</h3>
-<p align="center"><sub>Designed with care. Built with Swift. Shipped to the App Store.</sub></p>
+<h3 align="center">Full-stack developer — native iOS & Flutter on the front, PostgreSQL · Supabase · AWS on the back, AI woven in</h3>
+<p align="center"><sub>Designed with care. Built end to end. Shipped to production.</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apps_on_the_App_Store-6-007AFF?style=for-the-badge&labelColor=1C1C1E&logo=apple&logoColor=white" />
@@ -12,22 +12,22 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23007AFF" height="24" /> About Me
 
-I build mobile apps end to end: native iOS with **Swift / SwiftUI**, cross-platform with **Flutter / Dart**, and the **Supabase** backends behind them. I care about clean architecture, predictable state, secure data (Row-Level Security done right) and UI that feels smooth.
+I build products end to end — front to back. On the client: native iOS with **Swift / SwiftUI**, cross-platform with **Flutter / Dart**, and web with **TypeScript / Next.js**. On the server: **PostgreSQL**, **Supabase** and **AWS**, deployed and self-hosted. I care about clean architecture, predictable state, secure data (Row-Level Security done right) and UI that feels smooth.
 
 Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, on-device and cloud models, and vector search.
 
 | | Focus | What I do |
 |:-:|---|---|
-| 🍎 | **iOS** | SwiftUI, Swift Concurrency, custom animations, native frameworks |
-| 🦋 | **Flutter** | Scalable architecture with Riverpod, platform-native feel on both OSes |
-| 🤖 | **AI & LLMs** | Streaming chat UIs, local and cloud models, vector search |
-| 🗄️ | **Backend** | Supabase data modeling, RLS policies, realtime, self-hosting with Coolify |
+| <img src="https://cdn.simpleicons.org/apple/007AFF" height="22" /> | **iOS** | SwiftUI, Swift Concurrency, custom animations, native frameworks |
+| <img src="https://cdn.simpleicons.org/flutter/5AC8FA" height="22" /> | **Flutter** | Scalable architecture with Riverpod, platform-native feel on both OSes |
+| <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2334C759" height="22" /> | **AI & LLMs** | Streaming chat UIs, local and cloud models, vector search |
+| <img src="https://cdn.simpleicons.org/postgresql/30B0C7" height="22" /> | **Backend** | PostgreSQL, Supabase (RLS, realtime), AWS, self-hosting with Coolify |
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%235856D6" height="24" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-1C1C1E?style=for-the-badge&logo=swift&logoColor=white" />
@@ -37,7 +37,9 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
   <img src="https://img.shields.io/badge/TypeScript-1C1C1E?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-1C1C1E?style=for-the-badge&logo=python&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-1C1C1E?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-1C1C1E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-1C1C1E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-1C1C1E?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-1C1C1E?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-1C1C1E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -51,7 +53,7 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 
 ---
 
-## 📱 My Published Apps
+## <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2334C759" height="24" /> My Published Apps
 
 | App | Platform | What it does |
 |---|:-:|---|
@@ -64,9 +66,9 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 
 ---
 
-## 🛠️ Tools & Repositories
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23FF9500" height="24" /> Tools & Repositories
 
-### Mobile Libraries & AI
+### <img src="https://api.iconify.design/lucide/package.svg?color=%238E8E93" height="20" /> Mobile Libraries & AI
 
 | Repository | What it does |
 |---|---|
@@ -75,7 +77,7 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 | [![flutter-oneclick](https://img.shields.io/badge/Flutter_OneClick-Shell-8E8E93?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/flutter-oneclick) | Production-ready Flutter project in one command |
 | [![react-native-oneclick](https://img.shields.io/badge/React_Native_OneClick-Shell-8E8E93?style=for-the-badge&logo=react&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/react-native-oneclick) | The same, for React Native |
 
-### Developer Productivity & Automation
+### <img src="https://api.iconify.design/lucide/zap.svg?color=%238E8E93" height="20" /> Developer Productivity & Automation
 
 | Repository | What it does |
 |---|---|
@@ -87,7 +89,7 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 | [![FlipHTML5 Downloader](https://img.shields.io/badge/FlipHTML5_Downloader-Python-5856D6?style=for-the-badge&logo=python&logoColor=white&labelColor=1C1C1E)](https://github.com/ykarateke/FlipHTML5-Downloader) | Downloads FlipHTML5 books for offline reading |
 
 <details>
-<summary><b>🎮 Arma 3 Modding Tools</b></summary>
+<summary><b><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%238E8E93" height="16" /> Arma 3 Modding Tools</b></summary>
 <br>
 
 | Repository | What it does |
@@ -101,7 +103,7 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2330B0C7" height="24" /> GitHub Stats
 
 <p align="center">
   <img src="./metrics.isocalendar.svg" alt="Isometric contribution calendar" width="100%" />
@@ -114,7 +116,7 @@ Lately I've been bringing **LLMs into mobile apps**: streaming chat interfaces, 
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/lucide/link.svg?color=%23FF2D55" height="24" /> Let's Connect
 
 <p align="center">
   <a href="https://x.com/ykarateke_"><img src="https://img.shields.io/badge/X-1C1C1E?style=for-the-badge&logo=x&logoColor=white" /></a>
